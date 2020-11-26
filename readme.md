@@ -1,4 +1,4 @@
-・デプロイ先：
+・デプロイ先：https://morika328.github.io/04_30_chatapp/
 
 ・プロダクトの紹介
 LINE風アプリの写経
